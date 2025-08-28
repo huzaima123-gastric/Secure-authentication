@@ -1,13 +1,6 @@
 🔐 Secure Authentication System
 A comprehensive, enterprise-grade authentication system featuring JWT authentication, two-factor authentication (2FA), OAuth 2.0 integration, and AES-256 encryption.
 
-Unsupported image
- 
-Unsupported image
- 
-Unsupported image
- 
-Unsupported image
 
 ✨ Features
 🔒 Authentication & Security
@@ -19,17 +12,20 @@ Rate Limiting - Protection against brute force attacks
 Security Headers - Helmet.js security middleware
 Password Strength Validation - Real-time password requirements checking
 Account Lockout - Automatic account protection after failed attempts
+
 📊 Data Management
 Mock User Database - Integration with CSV-based fake user dataset (1000+ users)
 Encrypted Data Storage - All sensitive data encrypted at rest
 Profile Management - Comprehensive user profile system
 Pagination - Efficient data browsing with pagination controls
+
 🎨 User Experience
 Cyberpunk Theme - Modern, futuristic design with glassmorphism effects
 Responsive Design - Perfect on desktop, tablet, and mobile devices
 Real-time Feedback - Instant validation and notifications
 Smooth Animations - Elegant transitions and loading states
 Accessibility - High contrast and reduced motion support
+
 🚀 Quick Start
 1. Clone & Install
 git clone <your-repo-url>
